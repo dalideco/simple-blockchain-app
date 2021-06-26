@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "sha256": "^0.2.0"
+    "sha256": "^0.2.0",
+    "ws": "^7.5.0"
   },
   "devDependencies": {
     "jest": "^27.0.4"
