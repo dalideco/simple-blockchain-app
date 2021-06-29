@@ -9,9 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "crypto-js": "^4.0.0",
     "elliptic": "^6.5.4",
     "express": "^4.17.1",
-    "sha256": "^0.2.0",
     "uuid": "^8.3.2",
     "ws": "^7.5.0"
   },
